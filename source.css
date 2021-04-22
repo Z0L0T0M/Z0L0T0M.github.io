@@ -1,0 +1,41 @@
+body {
+   background: url(../images/XnXsuR7.jpg) 0 0/100% 100% no-repeat fixed;
+   padding: 0px;
+   margin: 0px;
+}
+.header {
+   display: flex;
+   background-color: aliceblue;
+   height: auto;
+   width: 100%;
+   margin-top: 230px;
+}
+.head {
+   padding-top: 10px;
+   display: flex;
+   flex-wrap: wrap;
+}
+.head__ {
+   font-size: 20px;
+   color: aqua;
+   border-bottom: white 2px solid;
+   height: 30px;
+   width: auto;
+}
+.head__home {
+   margin-left:1%;
+}
+.head__about_us{
+   margin-left:83%;
+}
+.head__sign_in {
+   margin-left:2%;
+}
+.head__:hover {
+   transition: 300ms;
+   border-bottom: grey 2px solid;
+}
+a {
+   text-decoration: 0;
+   color: white;
+}
